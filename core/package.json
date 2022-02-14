@@ -1,0 +1,32 @@
+{
+  "name": "odoo-jsonrpc-session",
+  "version": "1.0.0",
+  "description": "Odoo JSON RPC session client",
+  "license": "MIT",
+  "author": {
+    "name": "Author"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "keywords": [
+    "odoo-session",
+    "client",
+    "odoo",
+    "json",
+    "rpc",
+    "connect",
+    "connector",
+    "adapter"
+  ],
+  "dependencies": {
+    "got": "^6.3.0",
+    "jayson": "^2.0.2",
+    "pify": "^2.3.0",
+    "axios": "^0.24.0"
+  }
+}
