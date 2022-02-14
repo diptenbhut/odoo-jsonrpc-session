@@ -1,7 +1,9 @@
 # odoo-jsonrpc-session
 
-Odoo json rpc works as a middle layer beetween odoo and other service.
+Odoo json rpc works as a middle layer beetween odoo and Node.js service.
 Added new session handling using odoo session token.
+
+This works in Node.js side only.
 
 > [Odoo](https://www.odoo.com) JSON-RPC client
 
